@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TestMusicApp</string>
+
+    <string name="choose_local">Local</string>
+    <string name="choose_remote">Remote</string>
+    <string name="choose_play">Play</string>
+
+
+</resources>
